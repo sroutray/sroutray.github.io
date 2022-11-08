@@ -4,7 +4,31 @@
 &lt;!--Custom spacing-->
 &lt;div class="mb-3">&lt;/div>
 &lt;!--GitHub Button JS-->
-&lt;script async defer src="https://buttons.github.io/buttons.js">&lt;/script></description></item><item><title>Skills</title><link>https://sroutray.github.io/home-unused/skills/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sroutray.github.io/home-unused/skills/</guid><description/></item><item><title>Experience</title><link>https://sroutray.github.io/home-unused/experience/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sroutray.github.io/home-unused/experience/</guid><description/></item><item><title>Accomplish&amp;shy;ments</title><link>https://sroutray.github.io/home-unused/accomplishments/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sroutray.github.io/home-unused/accomplishments/</guid><description/></item><item><title>Recent Posts</title><link>https://sroutray.github.io/home-unused/posts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sroutray.github.io/home-unused/posts/</guid><description/></item><item><title>Gallery</title><link>https://sroutray.github.io/home-unused/gallery/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sroutray.github.io/home-unused/gallery/</guid><description>
+&lt;script async defer src="https://buttons.github.io/buttons.js">&lt;/script></description></item><item><title>Academic Template</title><link>https://sroutray.github.io/home-unused/demo-links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sroutray.github.io/home-unused/demo-links/</guid><description>&lt;h2 id="-welcome-to-the-academic-template">👋 Welcome to the Academic Template&lt;/h2>
+&lt;p>The Wowchemy &lt;strong>Academic Resumé Template&lt;/strong> for Hugo empowers you to create your job-winning online resumé and showcase your academic publications.&lt;/p>
+&lt;p>&lt;a href="https://academic-demo.netlify.app" target="_blank" rel="noopener">Check out the latest demo&lt;/a> of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href="https://wowchemy.com/user-stories/" target="_blank" rel="noopener">view the showcase&lt;/a>.&lt;/p>
+&lt;p>&lt;a href="https://wowchemy.com" target="_blank" rel="noopener">&lt;strong>Wowchemy&lt;/strong>&lt;/a> makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs.&lt;/p>
+&lt;ul>
+&lt;li>👉 &lt;a href="https://wowchemy.com/docs/install/" target="_blank" rel="noopener">&lt;strong>Get Started&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>📚 &lt;a href="https://wowchemy.com/docs/" target="_blank" rel="noopener">View the &lt;strong>documentation&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>💬 &lt;a href="https://discord.gg/z8wNYzb" target="_blank" rel="noopener">Chat with the &lt;strong>Wowchemy community&lt;/strong>&lt;/a> or &lt;a href="https://discourse.gohugo.io" target="_blank" rel="noopener">&lt;strong>Hugo community&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>🐦 Twitter: &lt;a href="https://twitter.com/wowchemy" target="_blank" rel="noopener">@wowchemy&lt;/a> &lt;a href="https://twitter.com/GeorgeCushen" target="_blank" rel="noopener">@GeorgeCushen&lt;/a> &lt;a href="https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query" target="_blank" rel="noopener">#MadeWithWowchemy&lt;/a>&lt;/li>
+&lt;li>💡 &lt;a href="https://github.com/wowchemy/wowchemy-hugo-themes/issues" target="_blank" rel="noopener">Request a &lt;strong>feature&lt;/strong> or report a &lt;strong>bug&lt;/strong> for &lt;em>Wowchemy&lt;/em>&lt;/a>&lt;/li>
+&lt;li>⬆️ &lt;strong>Updating Wowchemy?&lt;/strong> View the &lt;a href="https://wowchemy.com/docs/update/" target="_blank" rel="noopener">Update Guide&lt;/a> and &lt;a href="https://wowchemy.com/updates/" target="_blank" rel="noopener">Release Notes&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="crowd-funded-open-source-software">Crowd-funded open-source software&lt;/h2>
+&lt;p>To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p>
+&lt;h3 id="-click-here-to-unlock-rewards-with-sponsorshiphttpswowchemycomplans">&lt;a href="https://wowchemy.com/plans/" target="_blank" rel="noopener">❤️ Click here to unlock rewards with sponsorship&lt;/a>&lt;/h3>
+&lt;h2 id="youre-looking-at-a-wowchemy-_widget_">You&amp;rsquo;re looking at a Wowchemy &lt;em>widget&lt;/em>&lt;/h2>
+&lt;div class="alert alert-note">
+&lt;div>
+&lt;p>This homepage section is an example of adding &lt;a href="https://wowchemy.com/docs/content/writing-markdown-latex/" target="_blank" rel="noopener">elements&lt;/a> to the &lt;a href="https://wowchemy.com/docs/widget/" target="_blank" rel="noopener">&lt;em>Blank&lt;/em> widget&lt;/a>.&lt;/p>
+&lt;p>Backgrounds can be applied to any section. Here, the &lt;em>background&lt;/em> option is set give a &lt;em>color gradient&lt;/em>.&lt;/p>
+&lt;p>&lt;strong>To remove this section, delete &lt;code>content/home/demo.md&lt;/code>.&lt;/strong>&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;h2 id="get-inspired">Get inspired&lt;/h2>
+&lt;p>&lt;a href="https://github.com/wowchemy/starter-academic/tree/master/exampleSite" target="_blank" rel="noopener">Check out the Markdown files&lt;/a> which power the &lt;a href="https://academic-demo.netlify.app" target="_blank" rel="noopener">Academic Demo&lt;/a>, or &lt;a href="https://wowchemy.com/user-stories/" target="_blank" rel="noopener">view the showcase&lt;/a>.&lt;/p></description></item><item><title>Skills</title><link>https://sroutray.github.io/home-unused/skills/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sroutray.github.io/home-unused/skills/</guid><description/></item><item><title>Experience</title><link>https://sroutray.github.io/home-unused/experience/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sroutray.github.io/home-unused/experience/</guid><description/></item><item><title>Accomplish&amp;shy;ments</title><link>https://sroutray.github.io/home-unused/accomplishments/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sroutray.github.io/home-unused/accomplishments/</guid><description/></item><item><title>Recent Posts</title><link>https://sroutray.github.io/home-unused/posts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sroutray.github.io/home-unused/posts/</guid><description/></item><item><title>Gallery</title><link>https://sroutray.github.io/home-unused/gallery/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sroutray.github.io/home-unused/gallery/</guid><description>
 &lt;div class="gallery-grid">
 &lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-demo" href="https://sroutray.github.io/media/albums/demo/chris-montgomery-smgTvepind4-unsplash.jpg" >
@@ -108,11 +132,12 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;p>&lt;a href="https://wowchemy.com/docs/customization" target="_blank" rel="noopener">Choose a stunning &lt;strong>theme&lt;/strong> and &lt;strong>font&lt;/strong>&lt;/a> for your site. Themes are fully customizable.&lt;/p>
 &lt;h2 id="license">License&lt;/h2>
 &lt;p>Copyright 2016-present &lt;a href="https://georgecushen.com" target="_blank" rel="noopener">George Cushen&lt;/a>.&lt;/p>
-&lt;p>Released under the &lt;a href="https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md" target="_blank" rel="noopener">MIT&lt;/a> license.&lt;/p></description></item><item><title>Efficient Algorithms for Smooth Minimax Optimisation in Non-Euclidean Space Using Bregman Divergence Framework</title><link>https://sroutray.github.io/project/minmax-noneuc/</link><pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate><guid>https://sroutray.github.io/project/minmax-noneuc/</guid><description>&lt;p>Minimax type of problems arise in several domains such as machine learning, optimization, statistics, communication, and game theory. However, a majority of results are established for the Euclidean norm due to its special self-dual nature. In this project, we propose Generalized Conceptual Dual Implicit Accelerated Gradient Descent (GC-DIAG) which is adapted from the Conceptual Dual Implicit Accelerated Gradient (C-DIAG) [
+&lt;p>Released under the &lt;a href="https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md" target="_blank" rel="noopener">MIT&lt;/a> license.&lt;/p></description></item><item><title>Smooth Minimax Optimisation in Non-Euclidean Space Using Bregman Divergence Framework</title><link>https://sroutray.github.io/project/minmax-noneuc/</link><pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate><guid>https://sroutray.github.io/project/minmax-noneuc/</guid><description>&lt;p>Minimax type of problems arise in several domains such as machine learning, optimization, statistics, communication, and game theory. However, a majority of results are established for the Euclidean norm due to its special self-dual nature. In this project, we propose Generalized Conceptual Dual Implicit Accelerated Gradient Descent (GC-DIAG) which is adapted from the Conceptual Dual Implicit Accelerated Gradient (C-DIAG) [
 &lt;a href="https://arxiv.org/abs/1907.01543" target="_blank">1&lt;/a>
-] for solving smooth minimax optimization problems $ \min_\mathbf{x}\max_\mathbf{y} g(\mathbf{x},\mathbf{y})$ where $ g(.,.)$ is smooth and $g(\mathbf{x},.) $ is concave for each $\mathbf{x}$ . We prove $\mathcal{O}(1/k^2)$ convergence rate for the primal dual gap using a potential-function based proof \cite{bansal2017potential} and Bregman Divergence framework. We also prove $\mathcal{O}(\frac{1}{k^4})$ convergence rate using Nesterov&amp;rsquo;s accelerated gradient descent and a restarting strategy, similar to [
+] for solving smooth minimax optimization problems $ \min_\mathbf{x}\max_\mathbf{y} g(\mathbf{x},\mathbf{y})$ where $ g(.,.)$ is smooth and $g(\mathbf{x},.) $ is concave for each $\mathbf{x}$ . We prove $\mathcal{O}(1/k^2)$ convergence rate for the primal dual gap using a potential-function based proof and Bregman Divergence framework. We also prove $\mathcal{O}(\frac{1}{k^4})$ convergence rate using Nesterov&amp;rsquo;s accelerated gradient descent and a restarting strategy, similar to [
 &lt;a href="https://yenhuanli.github.io/blog/2017/05/05/mirror-descent-str/" target="_blank">2&lt;/a>
-], which is an improvement over $\mathcal{O}(\frac{1}{k})$ for smooth and strongly convex functions with respect to an arbitrary norm.&lt;/p></description></item><item><title>CS-NET at SemEval-2020 Task 4: Siamese BERT for ComVE</title><link>https://sroutray.github.io/publication/siamese-bert-comve/</link><pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate><guid>https://sroutray.github.io/publication/siamese-bert-comve/</guid><description>&lt;div class="alert alert-note">
+], which is an improvement over $\mathcal{O}(\frac{1}{k})$ for smooth and strongly convex functions with respect to an arbitrary norm.&lt;/p></description></item><item><title>CS-NET at SemEval-2020 Task 4: Siamese BERT for ComVE</title><link>https://sroutray.github.io/publication/siamese-bert-comve/</link><pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate><guid>https://sroutray.github.io/publication/siamese-bert-comve/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
@@ -122,7 +147,8 @@ Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitor
 Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
 &lt;/div>
 &lt;/div>
-&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>Spectral Efficiency in Poisson Cluster Based HetNets with Users-Basestations Correlation</title><link>https://sroutray.github.io/publication/spectral-eff-hetnet/</link><pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate><guid>https://sroutray.github.io/publication/spectral-eff-hetnet/</guid><description>&lt;div class="alert alert-note">
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Spectral Efficiency in Poisson Cluster Based HetNets with Users-Basestations Correlation</title><link>https://sroutray.github.io/publication/spectral-eff-hetnet/</link><pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate><guid>https://sroutray.github.io/publication/spectral-eff-hetnet/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
@@ -132,7 +158,7 @@ Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitor
 Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
 &lt;/div>
 &lt;/div>
-&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>Writing technical content in Markdown</title><link>https://sroutray.github.io/post/writing-technical-content/</link><pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate><guid>https://sroutray.github.io/post/writing-technical-content/</guid><description>&lt;p>Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Resource Allocation in OFDMA Systems Using Reinforcement Learning</title><link>https://sroutray.github.io/project/ofdma-rl/</link><pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate><guid>https://sroutray.github.io/project/ofdma-rl/</guid><description>&lt;p>Long Term Evolution (LTE) makes use of Orthogonal Frequency Division Multiplexing (OFDM) to achieve high downlink data rates. Based on channel conditions of users, a resource scheduler can use dynamic resource allocation to provide best resource to users and optimize system performance. Proportional Fair (PF) scheduling is a popular resource allocation algorithm that tries to maximize total throughput while providing all users at least a minimal level of service. Recent advances in reinforcement learning (RL) has encouraged efforts to formulate resource allocation as a RL problem. In this study, Deep Deterministic Policy Gradient technique of RL is used to design RL-based resource scheduler and its performance is compared with that of the PF scheduler.&lt;/p></description></item><item><title>Writing technical content in Markdown</title><link>https://sroutray.github.io/post/writing-technical-content/</link><pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate><guid>https://sroutray.github.io/post/writing-technical-content/</guid><description>&lt;p>Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p>
 &lt;p>&lt;strong>Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong>&lt;/p>
 &lt;p>On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p>
 &lt;h2 id="examples">Examples&lt;/h2>
@@ -223,7 +249,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-312697584" class="chart">&lt;/div>
+&lt;div id="chart-168729543" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -232,7 +258,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-312697584', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-168729543', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
